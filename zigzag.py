@@ -1,5 +1,5 @@
 import time, sys
-indent = 0 # How many spaces to indent.
+indent = 0 # How many spaces to indent. Must be between 0 and 19.
 indentIncreasing = True # Whether the indentation is increasing or not.
 
 try:
