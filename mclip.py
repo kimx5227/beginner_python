@@ -1,5 +1,5 @@
 #! python 3
-# mclip.py -A multi-clipboard program
+# mclip.py -A multi-clipboard program taking argument after program and copying associiated phrase to clipboard
 
 TEXT = {
 'agree': """Yes, I agree. That sounds fine to me.""",
