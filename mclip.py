@@ -1,4 +1,4 @@
-!# python 3
+#! python 3
 # mclip.py -A multi-clipboard program
 
 TEXT = {
